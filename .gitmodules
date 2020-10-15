@@ -1,0 +1,6 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "colors/start/nerdtree"]
+	path = colors/start/nerdtree
+	url = https://github.com/morhetz/gruvbox.git
