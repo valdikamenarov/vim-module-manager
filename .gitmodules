@@ -7,3 +7,6 @@
 [submodule "plugins/start/vim-go"]
 	path = plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "plugins/start/utilsnips"]
+	path = plugins/start/utilsnips
+	url = https://github.com/SirVer/ultisnips.git
