@@ -10,3 +10,6 @@
 [submodule "plugins/start/utilsnips"]
 	path = plugins/start/utilsnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "syntax/start/vim-solidity"]
+	path = syntax/start/vim-solidity
+	url = https://github.com/TovarishFin/vim-solidity.git
