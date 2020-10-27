@@ -7,6 +7,8 @@ git submodule add https://github.com/fatih/vim-go.git plugins/start/vim-go
 git submodule add https://github.com/SirVer/ultisnips.git plugins/start/utilsnips
 
 # Syntax
+git submodule add https://github.com/TovarishFin/vim-solidity.git syntax/start/vim-solidity
+
 # Colors
 git submodule add https://github.com/morhetz/gruvbox.git colors/start/nerdtree
 
