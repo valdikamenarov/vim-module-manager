@@ -13,3 +13,6 @@
 [submodule "syntax/start/vim-solidity"]
 	path = syntax/start/vim-solidity
 	url = https://github.com/TovarishFin/vim-solidity.git
+[submodule "plugins/start/syntastic"]
+	path = plugins/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
