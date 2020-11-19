@@ -16,3 +16,6 @@
 [submodule "plugins/start/syntastic"]
 	path = plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "plugins/start/ale"]
+	path = plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
